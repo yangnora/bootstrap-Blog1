@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../bootstrap5-starter-files-gh-pages(practice)/components"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "components"
+	}
+}
